@@ -1,0 +1,11 @@
+. abong-crash 628xx
+. abong-blank 628xx
+. abong-mampus 628xx
+. abong-dong 628xx
+. abonh-aja 628xx
+. abong-permanen 628xx
+. abong-gedebong 628xx
+  ABONG SPECIAL BUG 
+. bangkiwil-crash 628xx
+. bangkiwil-tabrak 628xx
+. bangkiwil-otw 628xx
